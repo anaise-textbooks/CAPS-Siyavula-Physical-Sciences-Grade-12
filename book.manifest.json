@@ -1,0 +1,624 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-phys-sci-grade-12",
+  "title": "Physical Sciences Grade 12 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 12 Physical Sciences by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Chapter 1: Skills for science",
+      "sections": [
+        {
+          "id": "sec-01-01-01-skills-for-science-01",
+          "title": "1.1 The development of a scientific theory",
+          "path": "chapters/01-skills-for-science/01-skills-for-science-01.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-01-02-01-skills-for-science-02",
+          "title": "1.2 Scientific method",
+          "path": "chapters/01-skills-for-science/01-skills-for-science-02.mdx",
+          "estimatedMinutes": 29
+        },
+        {
+          "id": "sec-01-03-01-skills-for-science-03",
+          "title": "1.3 Data and data analysis",
+          "path": "chapters/01-skills-for-science/01-skills-for-science-03.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-01-04-01-skills-for-science-04",
+          "title": "1.4 Laboratory safety procedures",
+          "path": "chapters/01-skills-for-science/01-skills-for-science-04.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 2: Momentum and impulse",
+      "sections": [
+        {
+          "id": "sec-02-01-02-momentum-and-impulse-01",
+          "title": "2.1 Introduction",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-02-02-momentum-and-impulse-02",
+          "title": "2.2 Momentum",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-02.mdx",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "sec-02-03-02-momentum-and-impulse-03",
+          "title": "2.3 Newton's Second Law revisited",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-03.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-02-04-02-momentum-and-impulse-04",
+          "title": "2.4 Conservation of momentum",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-04.mdx",
+          "estimatedMinutes": 30
+        },
+        {
+          "id": "sec-02-05-02-momentum-and-impulse-05",
+          "title": "2.5 Impulse",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-05.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-02-06-02-momentum-and-impulse-06",
+          "title": "2.6 Physics in action: Impulse",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-06.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-02-07-02-momentum-and-impulse-07",
+          "title": "Chapter summary",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-07.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-08-02-momentum-and-impulse-08",
+          "title": "End of chapter exercises",
+          "path": "chapters/02-momentum-and-impulse/02-momentum-and-impulse-08.mdx",
+          "estimatedMinutes": 10
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 3: Vertical projectile motion in one dimension",
+      "sections": [
+        {
+          "id": "sec-03-01-03-vertical-projectile-motion-in-one-dimension-01",
+          "title": "3.1 Introduction",
+          "path": "chapters/03-vertical-projectile-motion-in-one-dimension/03-vertical-projectile-motion-in-one-dimension-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-03-02-03-vertical-projectile-motion-in-one-dimension-02",
+          "title": "3.2 Vertical projectile motion",
+          "path": "chapters/03-vertical-projectile-motion-in-one-dimension/03-vertical-projectile-motion-in-one-dimension-02.mdx",
+          "estimatedMinutes": 55
+        },
+        {
+          "id": "sec-03-03-03-vertical-projectile-motion-in-one-dimension-03",
+          "title": "3.3 Chapter summary",
+          "path": "chapters/03-vertical-projectile-motion-in-one-dimension/03-vertical-projectile-motion-in-one-dimension-03.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-03-04-03-vertical-projectile-motion-in-one-dimension-04",
+          "title": "End of chapter exercises",
+          "path": "chapters/03-vertical-projectile-motion-in-one-dimension/03-vertical-projectile-motion-in-one-dimension-04.mdx",
+          "estimatedMinutes": 10
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 4: Organic molecules",
+      "sections": [
+        {
+          "id": "sec-04-01-04-organic-molecules-01",
+          "title": "4.1 What are organic molecules?",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-01.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-04-02-04-organic-molecules-02",
+          "title": "4.2 Organic molecular structures",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-02.mdx",
+          "estimatedMinutes": 52
+        },
+        {
+          "id": "sec-04-03-04-organic-molecules-03",
+          "title": "4.3 IUPAC naming and formulae",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-03.mdx",
+          "estimatedMinutes": 111
+        },
+        {
+          "id": "sec-04-04-04-organic-molecules-04",
+          "title": "4.4 Physical properties and structure",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-04.mdx",
+          "estimatedMinutes": 51
+        },
+        {
+          "id": "sec-04-05-04-organic-molecules-05",
+          "title": "4.5 Applications of organic chemistry",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-05.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-04-06-04-organic-molecules-06",
+          "title": "4.6 Addition, elimination and substitution reactions",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-06.mdx",
+          "estimatedMinutes": 22
+        },
+        {
+          "id": "sec-04-07-04-organic-molecules-07",
+          "title": "4.7 Plastics and polymers",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-07.mdx",
+          "estimatedMinutes": 52
+        },
+        {
+          "id": "sec-04-08-04-organic-molecules-08",
+          "title": "4.8 Chapter summary",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-08.mdx",
+          "estimatedMinutes": 21
+        },
+        {
+          "id": "sec-04-09-04-organic-molecules-09",
+          "title": "End of chapter exercises",
+          "path": "chapters/04-organic-molecules/04-organic-molecules-09.mdx",
+          "estimatedMinutes": 8
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 5: Work energy and power",
+      "sections": [
+        {
+          "id": "sec-05-01-05-work-energy-and-power-01",
+          "title": "5.1 Introduction",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-02-05-work-energy-and-power-02",
+          "title": "5.2 Work",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-02.mdx",
+          "estimatedMinutes": 26
+        },
+        {
+          "id": "sec-05-03-05-work-energy-and-power-03",
+          "title": "5.3 Work-energy theorem",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-03.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-05-04-05-work-energy-and-power-04",
+          "title": "5.4 Conservation of energy",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-04.mdx",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "sec-05-05-05-work-energy-and-power-05",
+          "title": "5.5 Power",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-05.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-05-06-05-work-energy-and-power-06",
+          "title": "5.6 Chapter summary",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-06.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-07-05-work-energy-and-power-07",
+          "title": "End of chapter exercises",
+          "path": "chapters/05-work-energy-and-power/05-work-energy-and-power-07.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 6: Doppler effect",
+      "sections": [
+        {
+          "id": "sec-06-01-06-doppler-effect-01",
+          "title": "6.1 Introduction",
+          "path": "chapters/06-doppler-effect/06-doppler-effect-01.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-06-02-06-doppler-effect-02",
+          "title": "6.2 The Doppler effect with sound",
+          "path": "chapters/06-doppler-effect/06-doppler-effect-02.mdx",
+          "estimatedMinutes": 40
+        },
+        {
+          "id": "sec-06-03-06-doppler-effect-03",
+          "title": "6.3 The Doppler effect with light",
+          "path": "chapters/06-doppler-effect/06-doppler-effect-03.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-06-04-06-doppler-effect-04",
+          "title": "6.4 Chapter summary",
+          "path": "chapters/06-doppler-effect/06-doppler-effect-04.mdx",
+          "estimatedMinutes": 13
+        },
+        {
+          "id": "sec-06-05-06-doppler-effect-05",
+          "title": "End of chapter exercises",
+          "path": "chapters/06-doppler-effect/06-doppler-effect-05.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 7: Rate and extent of reaction",
+      "sections": [
+        {
+          "id": "sec-07-01-07-rate-and-extent-of-reaction-01",
+          "title": "7.1 Introduction",
+          "path": "chapters/07-rate-and-extent-of-reaction/07-rate-and-extent-of-reaction-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-02-07-rate-and-extent-of-reaction-02",
+          "title": "7.2 Rates of reaction and factors affecting rate",
+          "path": "chapters/07-rate-and-extent-of-reaction/07-rate-and-extent-of-reaction-02.mdx",
+          "estimatedMinutes": 40
+        },
+        {
+          "id": "sec-07-03-07-rate-and-extent-of-reaction-03",
+          "title": "7.3 Measuring rates of reaction",
+          "path": "chapters/07-rate-and-extent-of-reaction/07-rate-and-extent-of-reaction-03.mdx",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "sec-07-04-07-rate-and-extent-of-reaction-04",
+          "title": "7.4 Mechanism of reaction and catalysis",
+          "path": "chapters/07-rate-and-extent-of-reaction/07-rate-and-extent-of-reaction-04.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-07-05-07-rate-and-extent-of-reaction-05",
+          "title": "7.5 Chapter summary",
+          "path": "chapters/07-rate-and-extent-of-reaction/07-rate-and-extent-of-reaction-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-06-07-rate-and-extent-of-reaction-06",
+          "title": "End of chapter exercises",
+          "path": "chapters/07-rate-and-extent-of-reaction/07-rate-and-extent-of-reaction-06.mdx",
+          "estimatedMinutes": 8
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 8: Chemical equilibrium",
+      "sections": [
+        {
+          "id": "sec-08-01-08-chemical-equilibrium-01",
+          "title": "8.1 What is chemical equilibrium?",
+          "path": "chapters/08-chemical-equilibrium/08-chemical-equilibrium-01.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-08-02-08-chemical-equilibrium-02",
+          "title": "8.2 The equilibrium constant",
+          "path": "chapters/08-chemical-equilibrium/08-chemical-equilibrium-02.mdx",
+          "estimatedMinutes": 26
+        },
+        {
+          "id": "sec-08-03-08-chemical-equilibrium-03",
+          "title": "8.3 Le Chatelier's principle",
+          "path": "chapters/08-chemical-equilibrium/08-chemical-equilibrium-03.mdx",
+          "estimatedMinutes": 65
+        },
+        {
+          "id": "sec-08-04-08-chemical-equilibrium-04",
+          "title": "8.4 Chapter Summary",
+          "path": "chapters/08-chemical-equilibrium/08-chemical-equilibrium-04.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-05-08-chemical-equilibrium-05",
+          "title": "End of chapter exercises",
+          "path": "chapters/08-chemical-equilibrium/08-chemical-equilibrium-05.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 9: Acids and bases",
+      "sections": [
+        {
+          "id": "sec-09-01-09-acids-and-bases-01",
+          "title": "9.1 Acids and bases",
+          "path": "chapters/09-acids-and-bases/09-acids-and-bases-01.mdx",
+          "estimatedMinutes": 55
+        },
+        {
+          "id": "sec-09-02-09-acids-and-bases-02",
+          "title": "9.2 Acid-base reactions",
+          "path": "chapters/09-acids-and-bases/09-acids-and-bases-02.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-09-03-09-acids-and-bases-03",
+          "title": "9.3 pH",
+          "path": "chapters/09-acids-and-bases/09-acids-and-bases-03.mdx",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "sec-09-04-09-acids-and-bases-04",
+          "title": "9.4 Titrations",
+          "path": "chapters/09-acids-and-bases/09-acids-and-bases-04.mdx",
+          "estimatedMinutes": 32
+        },
+        {
+          "id": "sec-09-05-09-acids-and-bases-05",
+          "title": "9.5 Applications of acids and bases",
+          "path": "chapters/09-acids-and-bases/09-acids-and-bases-05.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-09-06-09-acids-and-bases-06",
+          "title": "9.6 Chapter summary",
+          "path": "chapters/09-acids-and-bases/09-acids-and-bases-06.mdx",
+          "estimatedMinutes": 25
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Electric circuits",
+      "sections": [
+        {
+          "id": "sec-10-01-10-electric-circuits-01",
+          "title": "10.1 Introduction",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-01.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-10-02-10-electric-circuits-02",
+          "title": "10.2 Series and parallel resistor networks (Revision)",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-02.mdx",
+          "estimatedMinutes": 41
+        },
+        {
+          "id": "sec-10-03-10-electric-circuits-03",
+          "title": "10.3 Batteries and internal resistance",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-03.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-10-04-10-electric-circuits-04",
+          "title": "10.4 Evaluating internal resistance in circuits",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-04.mdx",
+          "estimatedMinutes": 31
+        },
+        {
+          "id": "sec-10-05-10-electric-circuits-05",
+          "title": "10.5 Extension: Wheatstone bridge [Not examinable]",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-05.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-10-06-10-electric-circuits-06",
+          "title": "10.6 Chapter summary",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-06.mdx",
+          "estimatedMinutes": 34
+        },
+        {
+          "id": "sec-10-07-10-electric-circuits-07",
+          "title": "End of chapter exercises",
+          "path": "chapters/10-electric-circuits/10-electric-circuits-07.mdx",
+          "estimatedMinutes": 13
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 11: Electrodynamics",
+      "sections": [
+        {
+          "id": "sec-11-01-11-electrodynamics-01",
+          "title": "11.1 Introduction",
+          "path": "chapters/11-electrodynamics/11-electrodynamics-01.mdx",
+          "estimatedMinutes": 30
+        },
+        {
+          "id": "sec-11-02-11-electrodynamics-02",
+          "title": "11.2 Electrical machines - generators and motors",
+          "path": "chapters/11-electrodynamics/11-electrodynamics-02.mdx",
+          "estimatedMinutes": 19
+        },
+        {
+          "id": "sec-11-03-11-electrodynamics-03",
+          "title": "11.3 Alternating current",
+          "path": "chapters/11-electrodynamics/11-electrodynamics-03.mdx",
+          "estimatedMinutes": 33
+        },
+        {
+          "id": "sec-11-04-11-electrodynamics-04",
+          "title": "11.4 Chapter summary",
+          "path": "chapters/11-electrodynamics/11-electrodynamics-04.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-05-11-electrodynamics-05",
+          "title": "End of chapter exercises",
+          "path": "chapters/11-electrodynamics/11-electrodynamics-05.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Chapter 12: Optical phenomena and properties of matter",
+      "sections": [
+        {
+          "id": "sec-12-01-12-optical-phenomena-and-properties-of-matter-01",
+          "title": "12.1 Introduction",
+          "path": "chapters/12-optical-phenomena-and-properties-of-matter/12-optical-phenomena-and-properties-of-matter-01.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-12-02-12-optical-phenomena-and-properties-of-matter-02",
+          "title": "12.2 The photoelectric effect",
+          "path": "chapters/12-optical-phenomena-and-properties-of-matter/12-optical-phenomena-and-properties-of-matter-02.mdx",
+          "estimatedMinutes": 30
+        },
+        {
+          "id": "sec-12-03-12-optical-phenomena-and-properties-of-matter-03",
+          "title": "12.3 Emission and absorption spectra",
+          "path": "chapters/12-optical-phenomena-and-properties-of-matter/12-optical-phenomena-and-properties-of-matter-03.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-12-04-12-optical-phenomena-and-properties-of-matter-04",
+          "title": "12.4 Chapter summary",
+          "path": "chapters/12-optical-phenomena-and-properties-of-matter/12-optical-phenomena-and-properties-of-matter-04.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-12-05-12-optical-phenomena-and-properties-of-matter-05",
+          "title": "End of chapter exercises",
+          "path": "chapters/12-optical-phenomena-and-properties-of-matter/12-optical-phenomena-and-properties-of-matter-05.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Chapter 13: Electrochemical reactions",
+      "sections": [
+        {
+          "id": "sec-13-01-13-electrochemical-reactions-01",
+          "title": "13.1 Revision of oxidation and reduction",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-01.mdx",
+          "estimatedMinutes": 11
+        },
+        {
+          "id": "sec-13-02-13-electrochemical-reactions-02",
+          "title": "13.2 Writing redox and half-reactions",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-02.mdx",
+          "estimatedMinutes": 18
+        },
+        {
+          "id": "sec-13-03-13-electrochemical-reactions-03",
+          "title": "13.3 Galvanic and electrolytic cells",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-03.mdx",
+          "estimatedMinutes": 43
+        },
+        {
+          "id": "sec-13-04-13-electrochemical-reactions-04",
+          "title": "13.4 Processes in electrochemical cells",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-04.mdx",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "sec-13-05-13-electrochemical-reactions-05",
+          "title": "13.5 The effects of current and potential on rate and equilibrium",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-05.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-13-06-13-electrochemical-reactions-06",
+          "title": "13.6 Standard electrode potentials",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-06.mdx",
+          "estimatedMinutes": 57
+        },
+        {
+          "id": "sec-13-07-13-electrochemical-reactions-07",
+          "title": "13.7 Applications of electrochemistry",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-07.mdx",
+          "estimatedMinutes": 24
+        },
+        {
+          "id": "sec-13-08-13-electrochemical-reactions-08",
+          "title": "13.8 Chapter summary",
+          "path": "chapters/13-electrochemical-reactions/13-electrochemical-reactions-08.mdx",
+          "estimatedMinutes": 31
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "Chapter 14: The chemical industry",
+      "sections": [
+        {
+          "id": "sec-14-01-14-the-chemical-industry-01",
+          "title": "14.1 Introduction",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-01.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-14-02-14-the-chemical-industry-02",
+          "title": "14.2 Nutrients",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-02.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-14-03-14-the-chemical-industry-03",
+          "title": "14.3 Fertilisers",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-03.mdx",
+          "estimatedMinutes": 17
+        },
+        {
+          "id": "sec-14-04-14-the-chemical-industry-04",
+          "title": "14.4 The fertiliser industry",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-04.mdx",
+          "estimatedMinutes": 27
+        },
+        {
+          "id": "sec-14-05-14-the-chemical-industry-05",
+          "title": "14.5 Alternative sources of fertilisers",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-05.mdx",
+          "estimatedMinutes": 9
+        },
+        {
+          "id": "sec-14-06-14-the-chemical-industry-06",
+          "title": "14.6 Fertilisers and the environment",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-06.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-14-07-14-the-chemical-industry-07",
+          "title": "14.7 Chapter summary",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-07.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-14-08-14-the-chemical-industry-08",
+          "title": "End of chapter exercises",
+          "path": "chapters/14-the-chemical-industry/14-the-chemical-industry-08.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    }
+  ]
+}
